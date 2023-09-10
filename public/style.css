@@ -23,12 +23,14 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 margin: 35px;
+padding: 12px;
 }
 
 .row {
 display: flex;
 justify-content: center;
 align-items: center;
+padding : 2px;
 }
 
 .btn {
